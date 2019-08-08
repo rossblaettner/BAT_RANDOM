@@ -1,0 +1,3 @@
+REM: set randmin=1000
+REM: set randmax=9999
+REM: set /a randfour = %randmin% + %RANDOM% %% (%randmax% - %randmin% + 1)
